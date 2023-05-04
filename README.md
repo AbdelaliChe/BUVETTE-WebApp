@@ -27,4 +27,4 @@ The ENSAH Buvette Management WebApp is a project aimed at providing a user-frien
 
 ## Video Showcase
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO-ID/hqdefault.jpg)](https://www.linkedin.com/posts/abdelali-chentoui_webdevelopment-webapp-webdesign-activity-6970484024213430272-GR2I?utm_source=share&utm_medium=member_desktop)
+[![Watch the video](https://github.com/AbdelaliChe/BUVETTE-WebApp/blob/main/Buvette-WebApp/images/t.jpg)](https://www.linkedin.com/posts/abdelali-chentoui_webdevelopment-webapp-webdesign-activity-6970484024213430272-GR2I?utm_source=share&utm_medium=member_desktop)
