@@ -1,6 +1,6 @@
 # ENSAH Buvette Management WebApp
 
-![Screenshot 0](https://github.com/AbdelaliChe/BUVETTE-WebApp/blob/main/Buvette-WebApp/images/t.jpg)
+![Screenshot 0](https://github.com/AbdelaliChe/BUVETTE-WebApp/blob/main/Buvette-WebApp/images/screen.jpg)
 
 The ENSAH Buvette Management WebApp is a project aimed at providing a user-friendly and efficient web-based platform for managing orders and products at the ENSAH buvette. 
 
